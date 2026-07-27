@@ -1,0 +1,7 @@
+[
+  { "name": "Food", "icon": "food" },
+  { "name": "Transport", "icon": "transport" },
+  { "name": "Housing", "icon": "housing" },
+  { "name": "Shopping", "icon": "shopping" },
+  { "name": "Utilities", "icon": "utilities" }
+]

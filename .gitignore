@@ -1,0 +1,61 @@
+# Expo
+.expo/
+__generated__/
+web-build/
+bare-apps/
+
+# Native directories (if prebuilt locally)
+/android/
+/ios/
+
+# Dependencies & Package Managers
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-debug.log*
+
+# Turborepo
+.turbo/
+
+# OS / System files
+.DS_Store
+Thumbs.db
+
+# Environment Variables & Secrets
+.env
+.env*.local
+.env.production
+.firebase/
+*.pem
+*.key
+*.keystore
+
+# Editor / IDE files
+.vscode/
+.idea/
+.history/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swo
+*~
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/test_output
+
+# Temporary / Metro Cache
+.metro-health-check*
+
+# General Build Outputs & Runtime
+dist/
+build/
+pids
+*.pid
+*.seed
+*.pid.lock

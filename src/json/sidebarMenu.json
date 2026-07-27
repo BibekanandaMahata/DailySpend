@@ -1,0 +1,6 @@
+[
+  { "name": "Home", "icon": "home", "route": "Home" },
+  { "name": "Settings", "icon": "settings", "route": "Settings" },
+  { "name": "About", "icon": "info", "route": "About" },
+  { "name": "Privacy Policy", "icon": "privacy", "route": "Privacy" }
+]

@@ -1,0 +1,5 @@
+[
+  { "name": "Home", "icon": "home" },
+  { "name": "History", "icon": "history" },
+  { "name": "Budgets", "icon": "budgets" }
+]

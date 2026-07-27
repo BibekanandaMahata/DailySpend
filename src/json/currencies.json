@@ -1,0 +1,6 @@
+{
+  "USD": { "code": "USD", "symbol": "$", "rate": 1.0, "name": "US Dollar" },
+  "INR": { "code": "INR", "symbol": "₹", "rate": 83.0, "name": "Indian Rupee" },
+  "EUR": { "code": "EUR", "symbol": "€", "rate": 0.92, "name": "Euro" },
+  "GBP": { "code": "GBP", "symbol": "£", "rate": 0.79, "name": "British Pound" }
+}

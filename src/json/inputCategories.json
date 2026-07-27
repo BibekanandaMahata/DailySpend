@@ -1,0 +1,6 @@
+[
+  { "label": "Food", "value": "Food", "icon": "food" },
+  { "label": "Transport", "value": "Transport", "icon": "transport" },
+  { "label": "Shopping", "value": "Shopping", "icon": "shopping" },
+  { "label": "Utilities", "value": "Utilities", "icon": "utilities" }
+]
